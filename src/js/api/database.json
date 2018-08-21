@@ -1,0 +1,64 @@
+{
+  "locationsForm": [
+    {
+      "location": "nashville",
+      "locationType": "City",
+      "review": "Redneck",
+      "id": 1
+    },
+    {
+      "location": "san diego",
+      "locationType": "the Beach",
+      "review": "Its cold there",
+      "id": 2
+    },
+    {
+      "location": "Boston",
+      "locationType": "City",
+      "review": "Lovely city with a great history",
+      "id": 3
+    },
+    {
+      "location": "Australia",
+      "locationType": "Country",
+      "review": "I would love to live there , but everything wants to kill you",
+      "id": 5
+    },
+    {
+      "location": "Hawaii",
+      "locationType": "Island",
+      "review": "I love the bars on the beach ",
+      "id": 6
+    },
+    {
+      "location": "Big Sir California",
+      "locationType": "A great little city",
+      "review": "Beautiful homes along the shore with cliffs",
+      "id": 7
+    },
+    {
+      "location": "",
+      "locationType": "",
+      "review": "",
+      "id": 8
+    },
+    {
+      "location": "",
+      "locationType": "",
+      "review": "",
+      "id": 9
+    },
+    {
+      "location": "",
+      "locationType": "",
+      "review": "",
+      "id": 10
+    },
+    {
+      "location": "",
+      "locationType": "",
+      "review": "",
+      "id": 11
+    }
+  ]
+}
