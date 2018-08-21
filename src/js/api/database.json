@@ -59,6 +59,12 @@
       "locationType": "",
       "review": "",
       "id": 11
+    },
+    {
+      "location": "denver",
+      "locationType": "city",
+      "review": "I hear they are high there",
+      "id": 12
     }
   ]
 }
